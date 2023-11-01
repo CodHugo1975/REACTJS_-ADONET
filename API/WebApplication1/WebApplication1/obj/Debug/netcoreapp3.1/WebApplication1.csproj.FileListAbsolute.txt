@@ -1,0 +1,68 @@
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\EDITION\FROM SCRATCH\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Pack.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication1.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACT JS\API\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
